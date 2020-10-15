@@ -1,0 +1,83 @@
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background: url(images/bg.jpg) no-repeat fixed top;
+}
+
+.big {
+    width: 900px;
+    height: 1100px;
+    background: rgba(0, 0, 0, 0.3);
+    background-position: top;
+    margin: 0 auto;
+}
+
+.if {
+    float: right;
+    width: 700px;
+    height: 200px;
+    background-color:white;
+    
+}
+
+.if1 {float: left;
+width: 140px;
+height: 100px;
+font:  20px/100px "mincrosoft:yahei";
+
+
+}
+.if2 {float: left;
+    width: 140px;
+    height: 100px;
+    font:  20px/100px "mincrosoft:yahei";
+    
+
+}
+.if3 {float: left;
+    width: 140px;   
+    height: 100px;
+    font:  20px/100px "mincrosoft:yahei";
+    
+
+}
+.if4 {float: left;
+width: 140px;
+height: 100px;    
+font:  20px/100px "mincrosoft:yahei";
+
+}.if5 {float: left;
+    width: 140px;
+    height: 100px;
+    
+    font:  20px/100px "mincrosoft:yahei";
+}.if6 {float: left;
+    width: 350px;
+    height: 100px;
+    
+    font:  20px/100px "mincrosoft:yahei";
+}.if7 {float: left;
+    
+width: 350px;
+height: 100px;
+font:  20px/100px "mincrosoft:yahei";
+}
+
+.tx {
+    float: left;
+    width: 200px;
+    display: block;
+ 
+}
+
+
+.dh {
+    width: 900px;
+    height: 40px;
+    font: 30px/40px "mincrosoft:yahei";
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+}
