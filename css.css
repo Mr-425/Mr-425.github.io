@@ -81,3 +81,8 @@ font:  20px/100px "mincrosoft:yahei";
     color: white;
     background: rgba(0, 0, 0, 0.5);
 }
+.biao {
+    width: 900px;
+    background-color: white;
+    color: skyblue;
+}
